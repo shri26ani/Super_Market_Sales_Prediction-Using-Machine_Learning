@@ -1,1 +1,1 @@
-# Big_Mart_Sales_Prediction-Using-Machine_Learning
+# Super_Market_Sales_Prediction-Using-Machine_Learning
